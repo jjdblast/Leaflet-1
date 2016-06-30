@@ -8,7 +8,7 @@
 addLegend(map, position = c("topright", "bottomright", "bottomleft",
   "topleft"), pal, values, na.label = "NA", bins = 7, colors,
   opacity = 0.5, labels, labFormat = labelFormat(), title = NULL,
-  className = "info legend", layerId = NULL)
+  className = "info2 legend", layerId = NULL)
 
 labelFormat(prefix = "", suffix = "", between = " &ndash; ", digits = 3,
   big.mark = ",", transform = identity)
